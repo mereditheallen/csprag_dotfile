@@ -1,0 +1,6 @@
+alias hey="echo "hey what up hello""
+alias b1="cd ."
+alias bh="cd .."
+alias drop="cd ~/Dropbox"
+alias coding="cd ~/Dropbox/coding"
+alias lsl="ls -l"
